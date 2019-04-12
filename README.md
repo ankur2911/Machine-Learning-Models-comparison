@@ -1,7 +1,7 @@
 # Machine-Learning-Models-comparison
 
 Data set used:  https://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/pima-indians-diabetes.data
-Pre=processing: Standard Scalar is used for pre-processing dataset. 
+Pre-processing: Standard Scalar is used for pre-processing dataset. 
 
 		ss = StandardScaler()
 X_train_scaled = ss.fit_transform(X)
